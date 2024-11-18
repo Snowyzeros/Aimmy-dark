@@ -11,9 +11,9 @@ _________________________________________________________
 
 **How to download?**
 
-Click on "Releases", and choose which one you want.
+Click on "Releases", and choose Aimmy-Dark.zip
 
-Source is available.
+Source is available as well.
 
 _________________________________________________________
 Information:
