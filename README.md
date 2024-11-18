@@ -1,4 +1,4 @@
-Dark Mode for Aimmyd
+Dark Mode for Aimmy!
 ---------------------
 Aimmy-Dark's interface is designed with a complete dark mode for a sleek and modern look.
 
