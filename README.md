@@ -2,8 +2,11 @@ Dark Mode for Aimmy
 ---------------------
 Aimmy-Dark's interface is designed with a complete dark mode for a sleek and modern look.
 
-Aimmy-Dark is the normal version of Aimmy. The only modifications made were to the colors of the UI.
-All credits for the application goes to BabyHamsta, MarsInsanity & Taylor.
+This is a version of Aimmy by whoswhip, made faster thanks to DirectML. The only changes here are the colors of the UI.
+All credit for the original application goes to BabyHamsta, MarsInsanity, and Taylor.
+
+Big thanks to the developers and whoswhip for the DirectML Aimmy!
+
 _________________________________________________________
 Information:
 
