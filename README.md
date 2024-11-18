@@ -26,3 +26,10 @@ Reduces eye strain I guess
 
 
 Looks great with the matte black UI
+
+________________________________________________________
+
+**Aimmy Dark preview**
+
+![image](https://github.com/user-attachments/assets/a4ba5d96-067e-43ef-a293-fb9fcdbb0920)
+
